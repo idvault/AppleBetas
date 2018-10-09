@@ -1091,6 +1091,7 @@
 	<key>PayloadUUID</key>
 	<string>2AC5E794-C4D1-43C3-A5F5-F9230AF6EC07</string>
 	<key>PayloadVersion</key>
-	<integer>1</integer>
+	<integer>2</integer>
+	<key>SignerCerts</key>
 </dict>
 </plist>
